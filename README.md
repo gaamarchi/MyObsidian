@@ -1,5 +1,5 @@
 # MyObsidian
-This repository is still under development  
+This repository is still under development  🛠️
 This is my obsidian vault template  
 I used these sources to arrive at this model  
 https://www.productnook.com/obsidan-daily-note-template-productivity/  
