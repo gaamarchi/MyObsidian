@@ -1,0 +1,10 @@
+{
+  "accentColor": "#a68acc",
+  "baseFontSize": 15,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "cornell",
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
+}

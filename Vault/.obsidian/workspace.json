@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "d045144f532e7785",
+    "type": "split",
+    "children": [
+      {
+        "id": "e621e75ee5699fda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a36ef550245445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb401258f04446c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4378c395c8e611b0",
+        "type": "tabs",
+        "dimension": 77.68895348837209,
+        "children": [
+          {
+            "id": "8b8e66a936dcdf37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd16f9c10fd7c98e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "86a87ccb7e4778af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd44b71b8596a795",
+        "type": "tabs",
+        "dimension": 22.311046511627907,
+        "children": [
+          {
+            "id": "d08e6c94b26a6151",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.50418853759766
+  },
+  "right": {
+    "id": "b344e8be0d5de590",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ba8fa25f20b16a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2474ac30ff279be7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f75bd608bdd3656c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "111bb771f1ebfd91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ec25f8a95aa7227",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "8b8e66a936dcdf37",
+  "lastOpenFiles": [
+    "Journal/daily/2024-02-14.md",
+    "Dashboard.md",
+    "journal/daily/2024-02-14.md",
+    "Resources/Template/Daily note.md",
+    "journal/daily",
+    "journal",
+    "Zettelkasten/Inbox/aaaaa.md",
+    "Journal/Task",
+    "Library/Library.md",
+    "Resources/Attachments/Pasted image 20240214185801.png",
+    "Zettelkasten/Inbox/Pasted image 20240214185716.png.md",
+    "Pasted image 20240214185716.png",
+    "Journal/a.md",
+    "Journal/daily/a.md",
+    "Resources/Template/Reading Note.md",
+    "Library/Books/Dracula.md",
+    "Pasted image 20240214182311.png",
+    "Library/Books/Untitled.md",
+    "Library/Books/Untitled",
+    "Resources/Template/MOC.md",
+    "Resources/Template/Cornell Note.md",
+    "Resources/Excalidraw/ExcalidrawStartup.md",
+    "Resources/Excalidraw/Drawing 2024-02-14 18.11.07.excalidraw.md",
+    "Resources/Excalidraw",
+    "Zettelkasten/MOC/Csharp.md",
+    "Library/Links.md",
+    "Library/Articles",
+    "Library/Books",
+    "Library",
+    "Resources/Template/ephemera Note.md",
+    "Resources/Template/Main Note.md",
+    "Excalidraw/Drawing 2024-02-14 17.23.06.excalidraw.md",
+    "Resources/Template/structural Note.md",
+    "Excalidraw",
+    "Untitled.md",
+    "Zettelkasten/a.md",
+    "Zettelkasten/Inbox",
+    "Canvas/a.md",
+    "Canvas/canvas.canvas",
+    "Zettelkasten/MOC/a.md"
+  ]
+}
