@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68fc5d88eb0bdbe0",
+        "id": "3a499408cfcd4c6b",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f82c181b5c4167",
+            "id": "557d39aa020f9548",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,20 +165,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e4f82c181b5c4167",
+  "active": "8b8e66a936dcdf37",
   "lastOpenFiles": [
+    "Library/Library.md",
+    "Dashboard.md",
     "Resources/Template/MOC.md",
     "Resources/Template/Main Note.md",
     "Resources/Template/Daily note.md",
     "Resources/Template/Cornell Note.md",
-    "Dashboard.md",
     "Journal/daily/2024-02-14.md",
     "journal/daily/2024-02-14.md",
     "journal/daily",
     "journal",
     "Zettelkasten/Inbox/aaaaa.md",
     "Journal/Task",
-    "Library/Library.md",
     "Resources/Attachments/Pasted image 20240214185801.png",
     "Zettelkasten/Inbox/Pasted image 20240214185716.png.md",
     "Pasted image 20240214185716.png",

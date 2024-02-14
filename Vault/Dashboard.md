@@ -15,8 +15,7 @@ cssclasses:
 # Vault 
 - Info
 	- Zettelkasten -> `$=dv.pages('"Zettelkasten"').length - dv.pages('"Zettelkasten/MOC"').length`
-		- Permanent Notes
-			`$=dv.pages('"Zettelkasten"').length - dv.pages('"Zettelkasten/MOC"').length -dv.pages('"Zettelkasten/inbox"').length `
+		- Permanent Notes -> `$=dv.pages('"Zettelkasten"').length - dv.pages('"Zettelkasten/MOC"').length -dv.pages('"Zettelkasten/inbox"').length `
 	- Attachments -> `$=dv.pages('"Resources/Attachments"').length`
 	- Archive -> `$=dv.pages('"Resources/Archive"').length`
 	-  Canvas-> `$=dv.pages('"Canvas"').length`
